@@ -1,5 +1,5 @@
-# Python Cli Tic-Tac-Toe
-This is simple Python Cli Tic-Tac-Toe Game.
+# Tic-Tac-Toe CLI Game
+This is simple Tic-Tac-Toe CLI Game.
 
 ![Image of Tic-Tac-Toe](https://cdn.pixabay.com/photo/2013/07/12/15/56/tic-tac-toe-150614__340.png)
 
