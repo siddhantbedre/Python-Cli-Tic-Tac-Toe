@@ -1,0 +1,50 @@
+		=====================================================
+		*****************************************************
+		=====================================================
+		                                                 
+			        This is Tic Tac Toe Game                      
+			This game is made by basic concepts in Python 
+		
+		   	            HOW TO PLAY
+		   	            -----------
+			----------------------------------------------
+			----------------------------------------------
+		
+			1) Place are as follow in the game 1 to 9 :
+		
+				________________
+				|  1 |  2 |  3 |
+				|____|____|____|
+				|  4 |  5 |  6 |
+				|____|____|____|
+				|  7 |  8 |  9 |
+				|____|____|____|
+		
+			2) In last of Game , You will know how winner won
+			   By 3 method winner can won , 
+			   that method are as follow :
+		
+				1. Win By Row-Line 
+					_____________
+		
+				2. Win By Column-Line
+					
+					|
+					|
+					|
+		
+		
+				3. Win By Diagonal-Line
+		
+					\            / 
+				 	 \          /
+				 	  \        /
+
+
+			3) First Turn is Automatically Selected by Game.
+
+
+			4) You Got exit after ending Game.
+		=====================================================
+		*****************************************************
+		=====================================================
